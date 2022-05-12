@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Fabiano Mazzocco Guiof
+## Bem-vindo(a) ao perfil de Fabiano Mazzocco Guio
 
  <div>
   <a href="https://github.com/fabiano-mazzocco">
